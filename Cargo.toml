@@ -6,3 +6,6 @@ edition = "2021"
 description = "ecosystem, a rusty-hermit application"
 repository = "https://github.com/rust-learn-days/ecosystem"
 [dependencies]
+serde_json = "1.0.120"
+anyhow = "1.0.86"
+thiserror = "1.0.58"
